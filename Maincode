@@ -8,7 +8,7 @@ import pyodbc
 
 
 # Substitua 'API_KEY' pelo seu token de API do Bling
-API_KEY = 'b3ad0499b513779c9adde78cecbad774669e8a80a6feaacada87f5ac969b7e8bc5f935cd'
+API_KEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 # URL da API para buscar os pedidos
 url = f'https://bling.com.br/Api/v2/pedidos/json'
